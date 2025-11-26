@@ -1,0 +1,92 @@
+[
+  {
+    "nick": "Zevian",
+    "xp": 45236,
+    "fraction": {
+      "name": "Eclipse",
+      "color": "#C63400"
+    }
+  },
+  {
+    "nick": "Elenmist",
+    "xp": 35753,
+    "fraction": {
+      "name": "Inferno",
+      "color": "#FF7B00"
+    }
+  },
+  {
+    "nick": "Veyra",
+    "xp": 9786,
+    "fraction": {
+      "name": "Phantom",
+      "color": "#009AC3"
+    }
+  },
+  {
+    "nick": "Sorenwilds",
+    "xp": 8889,
+    "fraction": {
+      "name": "Shadow Legion",
+      "color": "#8800FF"
+    }
+  },
+  {
+    "nick": "Thalen",
+    "xp": 2765,
+    "fraction": {
+      "name": "Stormborn",
+      "color": "#FF0000"
+    }
+  },
+  {
+    "nick": "Quinvail",
+    "xp": 2559,
+    "fraction": {
+      "name": "Virelurks",
+      "color": "#009643"
+    }
+  },
+  {
+    "nick": "Thalen",
+    "xp": 2490,
+    "fraction": {
+      "name": "Stormborn",
+      "color": "#FF0000"
+    }
+  },
+  {
+    "nick": "Quinvail",
+    "xp": 2440,
+    "fraction": {
+      "name": "Stormborn",
+      "color": "#FF0000"
+    }
+  },
+  {
+    "nick": "Elenmist",
+    "xp": 1965,
+    "fraction": {
+      "name": "Inferno",
+      "color": "#FF7B00"
+    }
+  },
+  {
+    "nick": "Jaxenhand",
+    "xp": 1870,
+    "fraction": {
+      "name": "Virelurks",
+      "color": "#009643"
+    }
+  },
+  {
+    "nick": "Lirashuff",
+    "xp": 1801,
+    "fraction": {
+      "name": "Eclipse",
+      "color": "#C63400"
+    }
+  }
+]
+
+
