@@ -1,0 +1,16 @@
+# Correct MIME types for Unity WebGL files
+<IfModule mod_mime.c>
+    AddType application/wasm .wasm
+    AddType application/javascript .js
+    AddType application/octet-stream .data
+</IfModule>
+
+# Prevent browser caching while debugging
+<IfModule mod_headers.c>
+    <FilesMatch "\.(wasm|js|data)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+        Header set Pragma "no-cache"
+        Header set Expires 0
+        Header set Content-Encoding ""
+    </FilesMatch>
+</IfModule>
