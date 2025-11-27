@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7782b64-5867-4705-8dcf-68db7b6c3b5b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/components/FaqSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/FaqSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/HeroSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/HeroSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/RoadMapSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/RoadMapSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/StakeSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/StakeSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/ascendantsSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ascendantsSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/genesisgems.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/genesisgems.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/leaderboardSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/leaderboardSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/loreSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/loreSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/legends/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/legends/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/suvam/Workspace/Web/ascendant-website-new&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/suvam/Workspace/Web/ascendant-website-new/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -106,6 +103,7 @@
       <workItem from="1762794148144" duration="1316000" />
       <workItem from="1763111267832" duration="610000" />
       <workItem from="1764175502221" duration="3691000" />
+      <workItem from="1764232829323" duration="1479000" />
     </task>
     <servers />
   </component>

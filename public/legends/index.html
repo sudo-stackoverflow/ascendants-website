@@ -24,9 +24,9 @@
     <meta name="twitter:image:height" content="630"/>
     <meta name="twitter:image:alt" content="The Ascendants Preview"/>
 
-    <link rel="shortcut icon" href="TemplateData/AscendantLogo.png">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="shortcut icon" href="legends/TemplateData/AscendantLogo.png">
+    <link rel="stylesheet" href="legends/TemplateData/style.css">
+    <link rel="manifest" href="legends/manifest.webmanifest">
 
     <!-- Fix UTP WebGL WSS ':0' bug: default to 443 -->
     <script>
@@ -70,7 +70,7 @@
     <script>
       window.addEventListener("load", function () {
         if ("serviceWorker" in navigator) {
-          navigator.serviceWorker.register("ServiceWorker.js");
+          navigator.serviceWorker.register("legends/ServiceWorker.js");
         }
       });
 
@@ -104,14 +104,14 @@
         updateBannerVisibility();
       }
 
-      var buildUrl = "Build";
+      var buildUrl = "legends/Build";
       var loaderUrl = buildUrl + "/8b9a2e75e3ef71d8de22ccb01796df81.loader.js?v=0.1.1";
       var config = {
         arguments: [],
         dataUrl: buildUrl + "/9e3a96bd67221519814e69a01deda9ba.data.unityweb?v=0.1.1",
         frameworkUrl: buildUrl + "/40f6c475f53cb8ac6b36f6d43dbca19d.framework.js.unityweb?v=0.1.1",
         codeUrl: buildUrl + "/11fde24dbf4a2e1a9b478ce1b112e6a7.wasm.unityweb?v=0.1.1",
-        streamingAssetsUrl: "StreamingAssets",
+        streamingAssetsUrl: "legends/StreamingAssets",
         companyName: "Goldon Studios",
         productName: "Ascendants: Legends",
         productVersion: "0.1.1",
